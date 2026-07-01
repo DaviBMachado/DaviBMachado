@@ -69,10 +69,9 @@ I combine solid engineering fundamentals with a product mindset to deliver autom
 ---
 
 ## 📊 GitHub Stats
-
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DaviBMachado&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBMachado&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=DaviBMachado&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DaviBMachado&layout=compact&theme=tokyonight" />
 </p>
 
 ---
