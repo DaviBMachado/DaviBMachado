@@ -1,6 +1,6 @@
 #  Hi 👋, I'm Davi Bernardes Machado
 
-🚀 **Backend Software Engineer | Python, AWS & AI Specialist**
+🚀 **Backend Software Engineer | Python, AWS & AI**
 🇧🇷 Brazil 
 
 I build **scalable architectures**, **serverless solutions**, and **applied Generative AI integrations**.  
