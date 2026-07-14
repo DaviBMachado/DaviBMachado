@@ -4,7 +4,7 @@
 🇧🇷 Brazil 
 
 I build **scalable architectures**, **serverless solutions**, and **applied Generative AI integrations**.  
-I’m deeply focused on **modernizing monolithic systems to event-driven architectures**, and building **production-ready RESTful APIs**. 
+I’m deeply focused in **building systems, and modernizing existing softwares to event-driven architectures**, and building **production-ready RESTful APIs**. 
 
 I combine solid engineering fundamentals with a product mindset to deliver automation and measurable business impact.
 
